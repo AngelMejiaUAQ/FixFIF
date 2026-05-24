@@ -1,0 +1,9 @@
+{
+  "name": "fixfif-pwa",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PWA para reportar fallas técnicas del campus.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
